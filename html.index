@@ -1,0 +1,51 @@
+<html lang="zxx">
+
+   <head>
+
+      <title>Somtam-Enjoy Thai Food</title>
+
+      <meta charset="utf-8">
+
+      <meta name="description" content="">
+
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+
+      <!-- Calling Favicon -->
+
+      <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+
+      <!-- Calling Favicon -->
+
+      <!-- ********************* -->
+
+      <!-- CSS files -->
+
+      <link rel="stylesheet" href="css/bootstrap.min.css">
+
+      <link rel="stylesheet" href="css/animate.css">
+
+      <link rel="stylesheet" href="fonts/flaticon/flaticon.css">
+
+      <link rel="stylesheet" href="css/all.min.css">
+
+      <link rel="stylesheet" href="css/owl.carousel.min.css">
+
+      <link rel="stylesheet" href="css/nice-select.css">
+
+      <link rel="stylesheet" href="css/magnific-popup.css">
+
+      <link rel="stylesheet" href="css/meanmenu.css" media="all">
+
+      <link rel="stylesheet" href="css/twentytwenty.css" type="text/css" media="screen" />
+
+      <link rel="stylesheet" href="css/default.css">
+
+      <link rel="stylesheet" href="css/style.css">
+
+      <link rel="stylesheet" class="color-changing" href="css/color.css">
+
+      <link rel="stylesheet" href="css/responsive.css">
+
+      <!-- End CSS files -->
+
+   </head>
